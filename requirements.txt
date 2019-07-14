@@ -1,0 +1,10 @@
+tensorflow==2.0.0-beta1
+#tensorflow-gpu==2.0.0-beta1
+pandas
+pandas_datareader
+numpy
+tqdm
+sklearn
+tfx
+matplotlib
+jupyter
